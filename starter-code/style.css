@@ -1,0 +1,16 @@
+.nav-revera{
+    /* font changes */
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size: 32px;
+
+    /* spacing */
+    margin-left: 15%;
+    margin-right: 25%;
+
+    border: 1px solid brown;
+}
+
+#arrows {
+    font-size: 5px;
+}
